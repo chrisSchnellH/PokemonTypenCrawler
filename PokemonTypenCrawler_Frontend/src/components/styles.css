@@ -1,0 +1,114 @@
+.Container.d-flex.align-items-center.justify-content-center.text-center.p-5 {
+    background-color: #000;
+    height: 100vh;
+}
+
+.row {
+    max-width: 600px;
+}
+
+h1 {
+    color: #fff;
+}
+
+input {
+    background-color: #212529 !important;
+    color: #fff !important;
+    margin-right: 2px;
+}
+
+input::placeholder {
+    color: #fff !important;
+}
+
+.table {
+    background-color: #212529;
+}
+
+.table-fixed {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.table-fixed th,
+.table-fixed td {
+    border-right: 1px solid #dee2e6;
+    border-left: 1px solid #dee2e6;
+}
+
+tr:last-child {
+    border-bottom: 1px solid #dee2e6 !important;
+}
+
+.Normal {
+    background-color: #A8A878 !important;
+}
+
+.Feuer {
+    background-color: #F08030 !important;
+}
+
+.Wasser {
+    background-color: #6890F0 !important;
+}
+
+.Pflanze {
+    background-color: #78C850 !important;
+}
+
+.Elektro {
+    background-color: #F8D030 !important;
+}
+
+.Eis {
+    background-color: #98D8D8 !important;
+}
+
+.Kampf {
+    background-color: #C03028 !important;
+}
+
+.Gift {
+    background-color: #A040A0 !important;
+}
+
+.Boden {
+    background-color: #E0C068 !important;
+}
+
+.Flug {
+    background-color: #A890F0 !important;
+}
+
+.Gestein {
+    background-color: #B8A038 !important;
+}
+
+.Käfer {
+    background-color: #A8B820 !important;
+}
+
+.Geist {
+    background-color: #705898 !important;
+}
+
+.Stahl {
+    background-color: #B8B8D0 !important;
+}
+
+.Fee {
+    background-color: #EE99AC !important;
+}
+
+.Drache {
+    background-color: #7038F8 !important;
+}
+
+.Unlicht {
+    background-color: #705848 !important;
+}
+
+.Psycho {
+    background-color: #F85888 !important;
+
+}
